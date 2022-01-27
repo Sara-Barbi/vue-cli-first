@@ -1,16 +1,12 @@
 <template>
   <div class="hello">
-    <h1>HELLO</h1>
-    
+    <h1> il mio primo titolo con vue cli!</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
- 
- 
- 
+  name: 'titolo',
 }
 </script>
 
